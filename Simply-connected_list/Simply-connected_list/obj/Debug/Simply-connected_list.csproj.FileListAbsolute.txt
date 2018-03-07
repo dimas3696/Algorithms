@@ -1,0 +1,7 @@
+E:\Algorithms\Simply-connected_list\Simply-connected_list\bin\Debug\Simply-connected_list.exe.config
+E:\Algorithms\Simply-connected_list\Simply-connected_list\bin\Debug\Simply-connected_list.exe
+E:\Algorithms\Simply-connected_list\Simply-connected_list\bin\Debug\Simply-connected_list.pdb
+E:\Algorithms\Simply-connected_list\Simply-connected_list\obj\Debug\Simply-connected_list.csprojResolveAssemblyReference.cache
+E:\Algorithms\Simply-connected_list\Simply-connected_list\obj\Debug\Simply-connected_list.csproj.CoreCompileInputs.cache
+E:\Algorithms\Simply-connected_list\Simply-connected_list\obj\Debug\Simply-connected_list.exe
+E:\Algorithms\Simply-connected_list\Simply-connected_list\obj\Debug\Simply-connected_list.pdb
